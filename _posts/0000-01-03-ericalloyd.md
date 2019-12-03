@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to ericalloyd's slide!"
 ---
 
-Caption here
+Hey there! I'm Constructocat!
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+![constructocat](https://octodex.github.com/images/constructocat.jpg)
 {: .center}
