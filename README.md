@@ -1,11 +1,11 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Dec 3 - 5, 2019
+- Facilitator: @ericalloyd
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @ericalloyd**.
 
 ## Give Us Feedback
 
