@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to ericalloyd's slide!"
 ---
 
-Hey there! I'm Constructocat v2.0!
+Hey there! I'm Constructocat!
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+![constructocat](https://octodex.github.com/images/constructocat.jpg)
 {: .center}
